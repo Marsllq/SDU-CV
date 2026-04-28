@@ -1,4 +1,4 @@
-# SDU：山东大学 LaTeX 中文简历模板
+# SDU-CV：山东大学 LaTeX 中文简历模板
 
 ![](./docs/CV-preview.png)
 
